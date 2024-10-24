@@ -1,5 +1,1 @@
-type://user:pass@ip:port
-type://user:pass:ip:port
-type://ip:port:user:pass
-type://ip:port@user:pass
-type://ip:port
+ip.nimbleway.com:7000:account-pieper_ag_4tfu3a-pipeline-nimbleip:Q4L6u3P00W0J
