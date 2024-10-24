@@ -31,15 +31,15 @@ class Settings(BaseSettings):
     RANDOM_TAPS_COUNT: list[int] = [7, 31]
     SLEEP_BETWEEN_TAP: list[int] = [19, 36]
 
-    USE_PROXY_FROM_FILE: bool = False
+    USE_PROXY_FROM_FILE: bool = True
     
-    REF: bool = True
+    REF: bool = False
     REF_ID: str = ''
 
     EMERGENCY_STOP: bool = False
 
-    ROLL_CASINO: bool = True
-    VALUE_SPIN: int = 1
+    ROLL_CASINO: bool = False
+    VALUE_SPIN: int = 0
     LOTTERY_INFO: bool = True
 
     LINEA_WALLET: bool = True
