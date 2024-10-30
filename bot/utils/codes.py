@@ -10,7 +10,7 @@ CodesType = dict[str, str]
 class VideoCodes:
 
     codes_urls = [
-        "https://raw.githubusercontent.com/ArthurKoba/MemeFiBot/main/codes.json",
+        "https://raw.githubusercontent.com/Ayan123h/Memecode/main/codes.json",
         "https://raw.githubusercontent.com/Ayan123h/MemeFiBot/main/codes.json"
     ]
 
